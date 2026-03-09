@@ -6,7 +6,7 @@ const educationDetails = [
     title: 'Lovely Professional University',
     degree: 'Computer Science and Engineering',
     period: '2022 – 2026',
-    cgpa: 'CGPA: 6.00',
+    cgpa: 'CGPA: 6.52',
     location: 'Jalandhar, Punjab',
     logo: '/lpu.png',
   },
