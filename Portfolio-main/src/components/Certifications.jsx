@@ -29,15 +29,7 @@ const certificates = [
     link: 'https://www.coursera.org/learn/server-side-nodejs',
     Certificate: '/tab.jpeg',
   },
-    {
-    title: 'Data Analysis with Tableau',
-    image: '/coursera.png',
-    description: 'Completed Data Analysis with Tableau',
-    issuingOrganization: 'Coursera',
-    date: '2024',
-    link: 'https://www.coursera.org/learn/server-side-nodejs',
-    Certificate: '/tab.jpeg',
-  },
+   
 ];
 
 const bubbles = [
